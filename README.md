@@ -21,7 +21,7 @@
 
   ## Bancos de Dados:
   <div style="display: inline_block"><br>
-  <img align="center" alt="SQL" height="30" width="40" src="i class="devicon-microsoftsqlserver-plain-wordmark colored">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   
   ##
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusAlu&show_icons=true&theme=midnight-purple&include_all_commits=true">
