@@ -17,9 +17,12 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
 
-
  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 
+  ## Bancos de Dados:
+  <div style="display: inline_block"><br>
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  
   ##
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusAlu&show_icons=true&theme=midnight-purple&include_all_commits=true">
 
